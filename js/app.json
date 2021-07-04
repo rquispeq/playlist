@@ -1,0 +1,32 @@
+{
+    "songs" : [
+        {
+            "id": 0,
+            "name": "song 1",
+            "artist" : "The Strokes",
+            "song" : "music/song1.ogg",
+            "image": "img/cdm1.jpg"
+        },
+        {
+            "id": 2,
+            "name": "song 2",
+            "artist" : "The Strokes",
+            "song" : "music/song2.ogg",
+            "image": "img/cdm2.jpg"
+        },
+        {
+            "id": 3,
+            "name": "song 3",
+            "artist" : "The Strokes",
+            "song" : "music/song3.ogg",
+            "image": "img/cdm3.jpg"
+        },
+        {
+            "id": 4,
+            "name": "song 4",
+            "artist" : "The Strokes",
+            "song" : "music/song4.ogg",
+            "image": "img/cdm4.jpg"
+        }
+    ]
+}
