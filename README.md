@@ -7,7 +7,7 @@
     <img src="img/icons_tecnologies/bootstrap.png" width="60">
 <p>
 
-Este es un pequeño proyecto de una playlist musical programador con Javascript. 
+Este es un pequeño proyecto de una playlist musical programado con Javascript. 
 Tiene como objetivo la práctica de conocimientos básicos en html, css y javascript.
 
 # Herramientas utilizadas
