@@ -1,0 +1,11 @@
+#playlist li{
+    cursor: pointer;
+}
+
+#playlist li:hover{
+    background-color: #bebebe;
+}
+
+h1{
+    margin-bottom: 3rem;
+}
